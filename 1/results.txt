@@ -1,0 +1,8 @@
+  p  NumberOfInserts NumberOfDeletes
+0.2     13                  9
+0.3     12                  10
+0.4     32                  11
+0.5     2                   2
+0.6     15                  9
+0.7     86                  59
+0.8     9                   8

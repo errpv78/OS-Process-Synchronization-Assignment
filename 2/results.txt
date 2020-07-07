@@ -1,0 +1,21 @@
+p=0.2
+Sequence        Deadlock            Total Processes created
+NNSSNSS         No Deadlock             6
+
+NWESNWESNWES    Deadlock detected       12
+(Deadlock detected:
+Number of train process created: 12
+
+Train from north: 1
+Train from west: 6
+Train from south: 8
+Train from east: 7)
+
+NESWNESWNESW    Deadlock detected       12
+(Deadlock detected:
+Number of train process created: 12
+
+Train from north: 1
+Train from west: 4
+Train from south: 7
+Train from east: 2)
